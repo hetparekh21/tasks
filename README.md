@@ -18,7 +18,7 @@ Follow the steps below to set up the project locally:
 1.  Clone the project repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/hetparekh21/tasks.git
     ```
 
 2.  Change into the project directory:
